@@ -35,10 +35,10 @@ The repository contains a folder called PythonScript. It contains 8 python files
 
 ## Results
 
-![](images/GT_RRT.png)
-![](images/RRT_Connect.png)
-![](images/GT_RRT_paths.png)
-![](images/3Node_RRT.png)
+![](Images/GT_RRT.png)
+![](Images/RRT_Connect.png)
+![](Images/GT_RRT_paths.png)
+![](Images/3Node_RRT.png)
 
 ## Support
 
