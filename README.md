@@ -12,13 +12,12 @@ The enhanced variants of RRT leverage techniques like bi-directional search and 
 
 ## Python Scripts
 
-The repository contains 8 python files.
+The repository contains a folder called PythonScript. It contains 8 python files, mentioned below. The script does not ask for user input. The start node and end node can be updated inside the Main function, at the bottom of each script.
 
 #### *RRT and RRT Connect*
 - RRT
 - RRT-Connect Map 1 
 - RRT-Connect Map 2
-
 
 #### *Biased RRT Connect*
 - RRT-Connect Biased
@@ -34,6 +33,12 @@ The repository contains 8 python files.
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
+## Results
+
+![](images/GT_RRT.png)
+![](images/RRT_Connect.png)
+![](images/GT_RRT_paths.png)
+![](images/3Node_RRT.png)
 
 ## Support
 
