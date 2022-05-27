@@ -1,7 +1,7 @@
 
 # RRT  Algorithm Variants
 
-The repository contains several variants of  rapidly exploring random tree (RRT) algorithm. As a sampling based search algorithm, it searches large non-convex spaces by expanding branches in a random manner. I use it to find a path between point A nad point B on multiple 2D maps.
+The repository contains several variants of  rapidly exploring random tree (RRT) algorithm. As a sampling based search algorithm, it searches large non-convex spaces by expanding branches in a random manner. I use it to find a path between a Start Node and a Goal Node for a Point Robot in a 2D map.
 
 The enhanced variants of RRT leverage techniques like bi-directional search and potential field to improve the efficiency and optimality of the classic RRT algorithm.
 
