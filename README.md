@@ -35,6 +35,8 @@ The repository contains a folder called PythonScript. It contains 8 python files
 
 ## Results
 
+<img src = "Images/GT_RRT.png" width = "100" >
+
 ![](Images/GT_RRT.png)
 ![](Images/RRT_Connect.png)
 ![](Images/GT_RRT_paths.png)
